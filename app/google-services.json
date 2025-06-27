@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640402935231",
+    "project_id": "beta-buys-2238d",
+    "storage_bucket": "beta-buys-2238d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640402935231:android:5d119868e66ca0f636250a",
+        "android_client_info": {
+          "package_name": "com.shns.betabuys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDby4Ain3DYYTU0f1u-yvuRJwX-LhyFrdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
